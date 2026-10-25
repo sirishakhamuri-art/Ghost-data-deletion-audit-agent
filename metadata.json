@@ -1,0 +1,6 @@
+{
+  "name": "Northstar Ghost Data Audit Agent",
+  "description": "AI-powered deletion audit agent and verification platform that detects ghost data, active recreation pipelines, and generates ordered remediation plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
